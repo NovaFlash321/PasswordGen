@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\PasswordGen\\Generator\\Generator.csproj": {}
+  },
+  "projects": {
+    "H:\\PasswordGen\\Generator\\Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\PasswordGen\\Generator\\Generator.csproj",
+        "projectName": "Generator",
+        "projectPath": "H:\\PasswordGen\\Generator\\Generator.csproj",
+        "packagesPath": "C:\\Users\\novaf\\.nuget\\packages\\",
+        "outputPath": "H:\\PasswordGen\\Generator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\novaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "H:\\PasswordGen\\passwordclass\\PasswordClass.csproj": {
+                "projectPath": "H:\\PasswordGen\\passwordclass\\PasswordClass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\PasswordGen\\passwordclass\\PasswordClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\PasswordGen\\passwordclass\\PasswordClass.csproj",
+        "projectName": "PasswordClass",
+        "projectPath": "H:\\PasswordGen\\passwordclass\\PasswordClass.csproj",
+        "packagesPath": "C:\\Users\\novaf\\.nuget\\packages\\",
+        "outputPath": "H:\\PasswordGen\\passwordclass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\novaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
